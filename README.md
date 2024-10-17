@@ -7,7 +7,7 @@
 ## Enkapsulasi
   Enkapsulasi adalah salah satu konsep yang sangat penting. Enkapsulasi memungkinkan para pengembang untuk mengatur dan menyembunyikan implementasi internal suatu objek, sementara memungkinkan interaksi dengan objek tersebut melalui antarmuka yang ditentukan dengan baik.
 
-# Belum Selesai!
+
 ```java
 package pert4oop;
 
